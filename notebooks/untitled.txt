@@ -1,6 +1,0 @@
-First step : 
-
-Clean the data (lowercase, remove non-alphanumerical)
-0-pad all the sentences up to the max character count
-0-pad or truncate all handwritings to 600 timesteps
-Use only first 100 examples
